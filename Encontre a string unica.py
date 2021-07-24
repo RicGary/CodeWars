@@ -12,6 +12,3 @@ Strings may contain spaces. Spaces is not significant, only non-spaces
 It’s guaranteed that array contains more than 3 strings.
 """
 
-def find_uniq(arr):
-
-    return s
